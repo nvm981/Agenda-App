@@ -1,4 +1,5 @@
 	Descripción del proyecto
+
 Este proyecto consiste en desarrollar una aplicación móvil para Android enfocada en la administración de información personal mediante una agenda digital. La aplicación permite a los usuarios registrarse e iniciar sesión para acceder a un entorno donde pueden gestionar sus contactos y notas personales de manera organizada y sencilla.
 El objetivo principal es ofrecer una herramienta intuitiva que facilite el almacenamiento y administración de información importante desde un dispositivo móvil. La aplicación ha sido desarrollada utilizando Kotlin y Jetpack Compose, aplicando una arquitectura organizada que favorece el mantenimiento del código y una experiencia de usuario moderna.
 La aplicación integra diferentes módulos que trabajan de forma conjunta para brindar una solución completa, incluyendo autenticación de usuarios, administración de contactos, gestión de notas y navegación entre las distintas pantallas. Su desarrollo permitió aplicar los conocimientos adquiridos durante el curso de Desarrollo de Aplicaciones Android, implementando buenas prácticas de programación y diseño de interfaces.
@@ -6,8 +7,10 @@ La aplicación integra diferentes módulos que trabajan de forma conjunta para b
 	Exposición del problema
 Actualmente muchas personas utilizan aplicaciones diferentes para administrar sus contactos, registrar notas personales o almacenar información importante, lo que puede provocar desorganización y dificultar el acceso rápido a sus datos. Además, algunas aplicaciones incluyen funciones innecesarias o presentan interfaces complejas que afectan la experiencia del usuario.
 Como resultado, surge la necesidad de contar con una aplicación sencilla, organizada y fácil de utilizar que permita centralizar la información personal en un solo lugar. AgendaApp Kotlin JC busca solucionar esta situación ofreciendo una interfaz moderna que facilite la administración de contactos y notas, permitiendo al usuario acceder a su información de forma rápida y eficiente.
+
 	Plataforma
-		La aplicación fue desarrollada para dispositivos móviles con sistema operativo 	Android utilizando Android Studio como entorno de desarrollo.
+La aplicación fue desarrollada para dispositivos móviles con sistema operativo 	Android utilizando Android Studio como entorno de desarrollo.
+		
 	Tecnologías utilizadas
 
 •	Kotlin
